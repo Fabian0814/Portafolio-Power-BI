@@ -1,7 +1,7 @@
 # Portafolio-Power-BI
 Aqui les comparto algunos de los proyectos que he realizado a manera de practica como analista de datos en Power BI
 
-LISTA PROYECTOS
+LISTA DEPROYECTOS
 
 1. https://app.powerbi.com/view?r=eyJrIjoiYzUyMWVhMWUtMTBhOC00ZmExLTk1NGYtNTA2NzlkNDk0NDA4IiwidCI6IjVjNmI4MWVkLTA3YjgtNDU5MC04MmQ3LWU5YThhZTk1ODFiMiIsImMiOjR9
 2. https://app.powerbi.com/view?r=eyJrIjoiOGUxZTY0MjItNTY4My00OTZkLWIwZDMtZTkzZmM1MzdjYzFiIiwidCI6IjVjNmI4MWVkLTA3YjgtNDU5MC04MmQ3LWU5YThhZTk1ODFiMiIsImMiOjR9
@@ -11,3 +11,4 @@ LISTA PROYECTOS
 6. https://app.powerbi.com/view?r=eyJrIjoiMWZjY2Y5ZGQtMWFmMi00ZDg1LTkzMmEtYmUwMTFhYjc5NzNkIiwidCI6IjVjNmI4MWVkLTA3YjgtNDU5MC04MmQ3LWU5YThhZTk1ODFiMiIsImMiOjR9
 7. https://app.powerbi.com/view?r=eyJrIjoiMTcyYjQ5MjctM2U2Mi00ZDQ4LWI2YzctNzVhMjBhYzU0NTJlIiwidCI6IjVjNmI4MWVkLTA3YjgtNDU5MC04MmQ3LWU5YThhZTk1ODFiMiIsImMiOjR9
 8. https://app.powerbi.com/view?r=eyJrIjoiNWY2NGJmMjAtYzkyNS00YjY1LWI3OTAtZjA3MmFhODUzZjc4IiwidCI6IjVjNmI4MWVkLTA3YjgtNDU5MC04MmQ3LWU5YThhZTk1ODFiMiIsImMiOjR9
+9. https://app.powerbi.com/view?r=eyJrIjoiMTdkN2EyOWUtMzgyOC00OWIzLTg5MTctZWU5MGRkNzUzZWFjIiwidCI6IjVjNmI4MWVkLTA3YjgtNDU5MC04MmQ3LWU5YThhZTk1ODFiMiIsImMiOjR9
